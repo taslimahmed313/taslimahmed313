@@ -9,7 +9,7 @@ I am a positive, enthusiastic, and competent front-end based Full-Stack Web Deve
 
 <br />
 
-[<p align="center"><img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Linkedin.png">](https://www.linkedin.com/in/taslim-ahmed-020962250/)[<img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Facebook.png">](https://www.facebook.com/prokriti.tansen/)
+[<p align="center"><img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Linkedin.png">](https://www.facebook.com/prokriti.tansen/)[<img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Facebook.png">](https://www.facebook.com/prokriti.tansen/)
 <br />
 
 <!-- [![](https://visitcount.itsvg.in/api?id=sakib-xrz&icon=5&color=12)](https://visitcount.itsvg.in)
