@@ -1,4 +1,4 @@
-<img src="https://c4.wallpaperflare.com/wallpaper/733/132/870/programmers-life-wallpaper-preview.jpg" width="100%" height="auto" alt=""/> <br/>
+<img src="https://i.ibb.co/0DPrPLS/wallpaperflare-cropped.jpg" width="100%" height="auto" alt=""/> <br/>
 
 <h1 align="center">Hi 👋, I'm Taslim Ahmed</h1>
 <h3 align="center">A passionate front-end based Full-Stack Web Developer from Bangladesh</h3>
